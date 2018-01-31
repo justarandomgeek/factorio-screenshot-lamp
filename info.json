@@ -1,0 +1,11 @@
+{
+  "name": "screenshot-lamp",
+  "version": "0.16.0",
+  "factorio_version": "0.16",
+  "title": "Screenshot Lamp",
+  "author": "justarandomgeek",
+  "homepage": "",
+  "contact": "justarandomgeek@gmail.com",
+  "description": "A lamp which takes a screenshot when triggered",
+  "dependencies": ["base >= 0.16.0"]
+}
